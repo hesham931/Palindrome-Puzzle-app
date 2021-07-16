@@ -1,8 +1,3 @@
-/*
-Hesham ashraf mousa(139593)
-Section 7
-Assignment 2 (Stack).
-*/
 #include<iostream>
 #include<string>
 using namespace std;
